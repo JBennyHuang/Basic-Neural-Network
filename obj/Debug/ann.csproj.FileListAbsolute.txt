@@ -1,0 +1,7 @@
+C:\Users\Benny\Desktop\SharpDevelop\Projects\ann\ann\obj\Debug\ann.csprojResolveAssemblyReference.cache
+C:\Users\Benny\Desktop\SharpDevelop\Projects\ann\ann\bin\Debug\ann.exe.config
+C:\Users\Benny\Desktop\SharpDevelop\Projects\ann\ann\bin\Debug\ann.exe
+C:\Users\Benny\Desktop\SharpDevelop\Projects\ann\ann\bin\Debug\ann.pdb
+C:\Users\Benny\Desktop\SharpDevelop\Projects\ann\ann\obj\Debug\ann.exe
+C:\Users\Benny\Desktop\SharpDevelop\Projects\ann\ann\obj\Debug\ann.pdb
+C:\Users\Benny\Desktop\SharpDevelop\Projects\ann\ann\obj\Debug\ann.csproj.CoreCompileInputs.cache
